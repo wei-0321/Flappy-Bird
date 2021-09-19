@@ -54,5 +54,5 @@ Flappy-Bird	                             Main folder
 │  │ │
 │  │ ├ ...
 │  │ 
-│  │ ├ flappy_bird.py                    Main program
+│  ├ flappy_bird.py                    Main program
 ```
