@@ -7,7 +7,6 @@ import os
 
 #定義鳥類    (類別裡面的成員都要用self來存取，可以把self想成是java的this)
 class Bird:
-    
     #定義初始化方法 => 裡面有此類別的成員  (  記得是__init(self)__ 而不是 _init(self)_  )
     def __init__(self):    
         self.status = 1                               #預設飛行狀態為中立
@@ -34,7 +33,6 @@ class Bird:
 
 #定義管道類        
 class Pipeline:                                         
-
     #定義初始化方法
     def __init__(self, pipeX = 700):  
         self.pipeX = pipeX        #一開始管道所在位置(即畫面最右方)
