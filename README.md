@@ -1,6 +1,11 @@
 # Flappy-Bird
 An implementation of Flappy Bird with python pygame. 
 
+Here is a demo video:
+
+https://user-images.githubusercontent.com/71260071/134341434-3c7b1be8-19ed-423b-a38b-611b30102ced.mp4
+
+
 # Overview 
 I loved to plays lots of games when I was young, and I am so confused about how these games were made.
 
@@ -54,5 +59,5 @@ Flappy-Bird	                             Main folder
 │  │ │
 │  │ ├ ...
 │  │ 
-│  ├ flappy_bird.py                    Main program
+│  ├ flappy_bird.py                      Main program
 ```
